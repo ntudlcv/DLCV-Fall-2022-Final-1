@@ -2,8 +2,10 @@
 
 # How to run your code?
 * TODO: Please provide the scripts for TAs to reproduce your results, including training and inference. For example, 
-> bash inference.sh <Path to videos folder> <Path to seg folder> <Path to bbox folder> <Path to output csv file>
-> bash inference.sh ./videos ./test/seg ./test/bbox ./output.csv
+```shell script=
+bash train.sh <Path to videos folder> <Path to seg folder> <Path to bbox folder>
+bash inference.sh <Path to videos folder> <Path to seg folder> <Path to bbox folder> <Path to output csv file>
+```
 
 # Usage
 To start working on this final project, you should clone this repository into your local machine by the following command:
@@ -13,9 +15,6 @@ To start working on this final project, you should clone this repository into yo
 Note that you should replace `<team_name>` with your own team name.
 
 For more details, please click [this link](https://docs.google.com/presentation/d/1Y-gwBmucYgbWLLk-u6coHi7LybFLXgA9gV8KiOiKShI/edit?usp=sharing) to view the slides of Final Project - Talking to me. **Note that video and introduction pdf files for final project can be accessed in your NTU COOL.**
-
-### Dataset
-The dataset could be downloaded from Kaggle.
 
 # Submission Rules
 ### Deadline
