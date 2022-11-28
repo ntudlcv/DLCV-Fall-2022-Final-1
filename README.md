@@ -1,12 +1,12 @@
 # DLCV Final Project ( Talking to me )
 
 # How to run your code?
-> TODO: Please the scripts to let TAs reproduce your results, including training and testing. For example, 
+* TODO: Please provide the scripts for TAs to reproduce your results, including training and inference. For example, 
 > bash inference.sh <Path to videos folder> <Path to seg folder> <Path to bbox folder> <Path to output csv file>
 > bash inference.sh ./videos ./test/seg ./test/bbox ./output.csv
 
 # Usage
-To start working on this final project, you should clone this repository into your local machine by using the following command:
+To start working on this final project, you should clone this repository into your local machine by the following command:
 
     git clone https://github.com/ntudlcv/DLCV-Fall-2022-Final-1-<team name>.git
   
